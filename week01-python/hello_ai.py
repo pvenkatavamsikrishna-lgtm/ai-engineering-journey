@@ -7,3 +7,4 @@ print("Your skills are:")
 
 for skill in skills:
     print(skill)
+
